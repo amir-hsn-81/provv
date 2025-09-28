@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Try-On Room",
+  "description": "An AI-powered virtual fitting room application that allows users to upload a photo of themselves and try on different clothing items using Google's Gemini API.",
+  "requestFramePermissions": []
+}
